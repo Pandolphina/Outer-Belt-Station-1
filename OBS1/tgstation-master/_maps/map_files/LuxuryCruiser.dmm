@@ -1,0 +1,65 @@
+"a" = (/turf/open/space/basic,/area/space)
+"b" = (/turf/closed/wall/mineral/titanium,/area/space)
+"c" = (/obj/structure/grille,/obj/structure/window/shuttle,/turf/open/floor/plasteel/white,/area/space)
+"d" = (/obj/structure/chair/comfy/shuttle{dir = 4},/turf/open/floor/plasteel/white,/area/space)
+"e" = (/obj/structure/table/glass,/turf/open/floor/plasteel/white,/area/space)
+"f" = (/obj/structure/chair/comfy/shuttle{dir = 8},/turf/open/floor/plasteel/white,/area/space)
+"g" = (/turf/open/floor/plasteel/white,/area/space)
+"h" = (/obj/machinery/light{dir = 8},/turf/open/floor/plasteel/white,/area/space)
+"i" = (/obj/structure/window{dir = 8},/turf/open/floor/plasteel/purple,/area/space)
+"j" = (/turf/open/floor/plasteel/purple,/area/space)
+"k" = (/obj/structure/table,/turf/open/floor/plasteel/purple,/area/space)
+"l" = (/obj/machinery/door/airlock/public/glass,/turf/open/floor/plasteel/purple,/area/space)
+"m" = (/obj/machinery/door/window/westleft,/turf/open/floor/plasteel/purple,/area/space)
+"n" = (/obj/structure/chair/comfy/shuttle{dir = 4},/turf/open/floor/plasteel/purple,/area/space)
+"o" = (/obj/machinery/computer/shuttle{dir = 8},/turf/open/floor/plasteel/purple,/area/space)
+"p" = (/obj/machinery/door/window/westright,/turf/open/floor/plasteel/purple,/area/space)
+"q" = (/obj/machinery/computer/shuttle/white_ship{dir = 8},/turf/open/floor/plasteel/purple,/area/space)
+"r" = (/obj/structure/window,/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/white,/area/space)
+"s" = (/obj/structure/window{dir = 1},/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/white,/area/space)
+"t" = (/turf/open/floor/grass,/area/space)
+"u" = (/obj/structure/window/shuttle,/turf/open/floor/plasteel/white,/area/space)
+"v" = (/obj/machinery/door/airlock/public,/turf/open/floor/plasteel/purple,/area/space)
+"w" = (/obj/machinery/door/airlock/public,/turf/open/floor/plasteel/white,/area/space)
+"x" = (/obj/machinery/light/floor,/turf/open/floor/grass,/area/space)
+"y" = (/obj/structure/chair/wood/normal,/turf/open/floor/grass,/area/space)
+"z" = (/obj/structure/chair/wood/normal{dir = 1},/turf/open/floor/grass,/area/space)
+"A" = (/obj/structure/extinguisher_cabinet,/turf/closed/wall/mineral/titanium,/area/space)
+"B" = (/obj/structure/showcase/perfect_employee,/turf/open/floor/grass,/area/space)
+"C" = (/obj/structure/window{dir = 8},/obj/structure/window{dir = 1},/turf/open/water,/area/space)
+"D" = (/obj/structure/window{dir = 4},/obj/structure/window{dir = 1},/turf/open/water,/area/space)
+"E" = (/obj/structure/window{dir = 8},/obj/structure/window,/turf/open/water,/area/space)
+"F" = (/obj/structure/window{dir = 4},/obj/structure/window,/turf/open/water,/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaabbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaggbggggggbgbbaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaggljjjjjjljgbbaaaaaaaaaabccccbaaaa
+aaaaaaaaaaaaaaaaggbggggggbjjgbbbaaaaaaaabdeefcaaaa
+aaaaaaaaaaaaaaaaggbbbbbbbbgjjggbbbaaaaabbggggcaaaa
+aaaaaaaaaaaaaaaagbbxtyytxbbgjjjggbbbbbbbbhggrAcbaa
+aaaaaaaaaaaaaaaabbBttttttBbbgjjjguggggggbgggijkcaa
+aaaaaaaaaaaaaaaawttttCDttttvjjjjjljjjjjjljjjmnocaa
+aaaaaaaaaaaaaaaawttttEFttttvjjjjjljjjjjjljjjpnqcaa
+aaaaaaaaaaaaaaaabbBttttttBbbgjjjguggggggbgggijkcaa
+aaaaaaaaaaaaaaaagbbxtzztxbbgjjjggbbbbbbbbhggsAcbaa
+aaaaaaaaaaaaaaaaggbbbbbbbbgjjggbbbaaaaabbggggcaaaa
+aaaaaaaaaaaaaaaaggbggggggbjjgbbbaaaaaaaabdeefcaaaa
+aaaaaaaaaaaaaaaaggljjjjjjljgbbaaaaaaaaaabccccbaaaa
+aaaaaaaaaaaaaaaaggbggggggbgbbaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaabbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
