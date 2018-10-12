@@ -4,7 +4,7 @@
 
 /area/shuttle
 	name = "Shuttle"
-	requires_power = FALSE
+	requires_power = TRUE
 	dynamic_lighting = DYNAMIC_LIGHTING_FORCED
 	has_gravity = STANDARD_GRAVITY
 	always_unpowered = FALSE
@@ -60,7 +60,7 @@
 
 /area/shuttle/pirate/vault
 	name = "Pirate Shuttle Vault"
-	requires_power = FALSE
+	requires_power = TRUE
 
 ////////////////////////////Single-area shuttles////////////////////////////
 
